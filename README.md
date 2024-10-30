@@ -1,5 +1,5 @@
 # 🌐 Internet Research Assistant 🔎
-###📌 Problem Statement
+### 📌 Problem Statement
 Finding relevant and reliable news can be daunting in an era flooded with information. 
 Users often waste precious time sifting through countless articles, struggling to find quality content that meets their needs. 
 This project aims to address this issue by providing a streamlined solution that aggregates, analyzes, and formats news articles into a cohesive narrative, making it easier for users to stay informed.
